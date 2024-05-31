@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hbowman215
-- 👀 I’m interested in data science and data visualization
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: data science and data visualization
+- 🌱 I’m currently learning: Python
+- 📫 How to reach me: hbowman215@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 hbowman215/hbowman215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
